@@ -1,0 +1,32 @@
+# Issue 2: Wi-Fi Not Connecting
+
+## Issue Description:
+A user is unable to connect to the Wi-Fi network. The connection is either not appearing or showing as "Disconnected" despite being within range.
+
+## Troubleshooting Steps:
+1. **Check Wi-Fi Status**:  
+   Ensure that the Wi-Fi icon on the device is turned on. If the icon shows that Wi-Fi is off, turn it on through the settings.
+
+2. **Reboot the Device**:  
+   Ask the user to restart the device, as this can resolve temporary connection issues.
+
+3. **Forget and Reconnect to the Network**:  
+   - Go to Wi-Fi settings, click on the network, and select "Forget."  
+   - Reconnect by selecting the same network and entering the password.
+
+4. **Check Router/Modem**:  
+   - Confirm if other devices can connect to the network.  
+   - If no devices can connect, reboot the router and check for any issues with the ISP.
+
+5. **Update Network Drivers (if applicable)**:  
+   - Check if the device has the latest network drivers. If not, update them via the device’s settings or device manager.
+
+6. **Check for Interference**:  
+   Ensure that the user is within range of the router and there are no major obstructions (e.g., thick walls, microwaves, or other electronics) causing interference.
+
+7. **Test Another Device**:  
+   Ask the user to connect to the Wi-Fi network with another device (like a smartphone or laptop). If other devices can connect, the issue may be with the original device.
+
+## Conclusion:
+If none of these steps work, escalate to a higher support level, as the issue could be related to hardware or configuration that requires further investigation.
+
